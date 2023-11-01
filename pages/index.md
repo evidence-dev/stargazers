@@ -47,7 +47,7 @@ where country_lookup.location is not null
 and country != 'null'
 GROUP BY all
 ORDER BY 2 DESC
-limit 20
+limit 10
 ```
 
 <BarChart
