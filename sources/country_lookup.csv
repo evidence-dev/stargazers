@@ -1,0 +1,361 @@
+location,country
+"India",India
+"London",UK
+"London, UK",UK
+"San Francisco, CA",USA
+"San Francisco",USA
+"France",France
+"Paris",France
+"Germany",Germany
+"Tokyo, Japan",Japan
+"Seattle, WA",USA
+"Berlin, Germany",Germany
+"United Kingdom",UK
+"Berlin",Germany
+"China",China
+"New York",USA
+"Japan",Japan
+"Indonesia",Indonesia
+"Sydney, Australia",Australia
+"NYC",USA
+"Brazil",Brazil
+"Singapore",Singapore
+"Shanghai",China
+"United States",USA
+"Earth",null
+"Seoul",South Korea
+"Seoul, Korea",South Korea
+"Boston, MA",USA
+"Canada",Canada
+"Sydney",Australia
+"Beijing",China
+"Australia",Australia
+"Melbourne",Australia
+"Barcelona",Spain
+"Italy",Italy
+"Amsterdam",Netherlands
+"Philippines",Philippines
+"Moscow",Russia
+"Portugal",Portugal
+"Spain",Spain
+"Portland, OR",USA
+"Denver, CO",USA
+"Hamburg, Germany",Germany
+"London, United Kingdom",UK
+"Buenos Aires, Argentina",Argentina
+"South Africa",South Africa
+"Brooklyn, NY",USA
+"Seoul, South Korea",South Korea
+"Poland",Poland
+"Zürich",Switzerland
+"Hamburg",Germany
+"UK",UK
+"Ireland",Ireland
+"Hong Kong",Hong Kong
+"Toronto",Canada
+"Vienna, Austria",Austria
+"Remote",Remote
+"Madrid, Spain",Spain
+"Toronto, Canada",Canada
+"Bangalore",India
+"Seattle",USA
+"Helsinki, Finland",Finland
+"Taiwan",Taiwan
+"Chicago, IL",USA
+"Porto, Portugal",Portugal
+"São Paulo, Brazil",Brazil
+"Kuala Lumpur, Malaysia",Malaysia
+"Belgium",Belgium
+"Phoenix, AZ",USA
+"Lisbon",Portugal
+"Victoria, BC",Canada
+"Austin, Texas",USA
+"Bengaluru, India",India
+"Shenzhen",China
+"Atlanta, GA",USA
+"Tampa, FL",USA
+"Bengaluru, India",India
+"Switzerland",Switzerland
+"Bay Area",USA
+"Dhaka, Bangladesh",Bangladesh
+"Tallinn, Estonia",Estonia
+"Dallas, TX",USA
+"New Delhi",India
+"Finland",Finland
+"Toronto, Ontario",Canada
+"Montréal",Canada
+"Bandung, Indonesia",Indonesia
+"Yogyakarta, Indonesia",Indonesia
+"Washington, DC",USA
+"Los Angeles, CA",USA
+"Columbus, Ohio",USA
+"Cambridge, MA",USA
+"Brisbane, Australia",Australia
+"Dublin, Ireland",Ireland
+"Jakarta",Indonesia
+"Sacramento, CA",USA
+"Romania",Romania
+"Lisbon, Portugal",Portugal
+"Mumbai, India",India
+"Pune, India",India
+"Berkeley, CA",USA
+"Munich, Germany",Germany
+"Arlington, VA",USA
+"Miami, FL",USA
+"::1",null
+"SF Bay Area",USA
+"Zurich, Switzerland",Switzerland
+"Sweden",Sweden
+"Oslo",Norway
+"The Netherlands",Netherlands
+"Hangzhou",China
+"Ukraine",Ukraine
+"Hangzhou, China",China
+"Texas",USA
+"Houston, Texas, USA",USA
+"New York, New York",USA
+"UAE",UAE
+"Karlsruhe, Germany",Germany
+"Vilnius",Lithuania
+"Minnesota",USA
+"Florida",USA
+"Silicon Valley",USA
+"Hannover, Germany",Germany
+"Warsaw, Poland",Poland
+"Montreal",Canada
+"Amsterdam, NL",Netherlands
+"Auckland, New Zealand",New Zealand
+"Bangkok, Thailand",Thailand
+"Oslo, Norway",Norway
+"London, England",UK
+"Dubai, UAE",UAE
+"San Jose, CA",USA
+"Riyadh",Saudi Arabia
+"Germany, Berlin",Germany
+"Toronto, ON, Canada",Canada
+"Grenoble, France",France
+"SF, USA",USA
+"Barcelona, Spain",Spain
+"APAC",APAC
+"Vancouver, Canada",Canada
+"Tel Aviv, Israel",Israel
+"Stockholm, Sweden",Sweden
+"shenzhen",China
+"World",World
+"Denmark",Denmark
+"Vilnius, Lithuania",Lithuania
+"Maryland, USA",USA
+"Charlotte, NC",USA
+"Philadelphia, PA",USA
+"Seattle, Washington",USA
+"Buffalo, NY",USA
+"Rio de Janeiro",Brazil
+"Toronto, ON",Canada
+"Amsterdam, Netherlands",Netherlands
+"Yogyakarta",Indonesia
+"Lyon",France
+"Houston",USA
+"Madrid",Spain
+"Boston",USA
+"North America",North America
+"Turkey",Turkey
+"Cloud",null
+"Planet Earth",null
+"Vienna",Austria
+"New Jersey",USA
+"ShenZhen",China
+"shanghai",China
+"Edmonton, Canada",Canada
+"Vancouver",Canada
+"São Paulo",Brazil
+"Hungary",Hungary
+"Ho Chi Minh City, Vietnam",Vietnam
+"Atlanta",USA
+"Dubai",UAE
+"Copenhagen, Denmark",Denmark
+"Moon",null
+"Vietnam",Vietnam
+"Brussels",Belgium
+"Dublin",Ireland
+"Jakarta, Indonesia",Indonesia
+"Santiago, Chile",Chile
+"Washington DC",USA
+"Edinburgh",UK
+"Costa Rica",Costa Rica
+"Istanbul",Turkey
+"Nanjing, China",China
+"Curitiba, Brazil",Brazil
+"Johannesburg, South Africa",South Africa
+"Montpellier",France
+"Lyon, France",France
+"Cologne, Germany",Germany
+"St. Louis, MO",USA
+"Perth, Australia",Australia
+"North Carolina",USA
+"Russia",Russia
+"Adelaide",Australia
+"Helsinki",Finland
+"Austria",Austria
+"Korea",Korea
+"Kaunas, Lithuania",Lithuania
+"Nashville",USA
+"Lausanne, Switzerland",Switzerland
+"Memphis, TN",USA
+"ShenZhen, China",China
+"GuangZhou",China
+"Norway",Norway
+"Las Vegas, NV",USA
+"Atlanta, GA, USA",USA
+"Beijing, China",China
+"Spain, Madrid",Spain
+"Kraków",Poland
+"San Jose, California",USA
+"Chile",Chile
+"Gothenburg, Sweden",Sweden
+"Savannah, GA",USA
+"Washington, USA",USA
+"Connecticut, USA",USA
+"Shanghai, China",China
+"Mexico City",Mexico
+"Perth, WA",Australia
+"Dallas, Texas",USA
+"Malmö, Sweden",Sweden
+"Saudi Arabia",Saudi Arabia
+"Tulsa, OK",USA
+"Kansas City, MO",USA
+"Orlando, FL",USA
+"Brisbane",Australia
+"Oregon, USA",USA
+"Singapore, Singapore",Singapore
+"Oklahoma, USA",USA
+"Vancouver, BC",Canada
+"United States, North Carolina",USA
+"Hong Kong, China",Hong Kong
+"Manila, Philippines",Philippines
+"Hanoi",Vietnam
+"Missouri, USA",USA
+"Dubai, UAE",UAE
+"Phoenix, Arizona",USA
+"Delaware, USA",USA
+"Tampa, Florida",USA
+"Detroit, MI",USA
+"San Antonio, TX",USA
+"Orange County, CA",USA
+"Seoul, Korea, South",South Korea
+"Guangzhou, China",China
+"Paris, France",France
+"Buffalo, NY, USA",USA
+"Guatemala",Guatemala
+"Vienna, Austria",Austria
+"Baltimore, MD",USA
+"Stockholm",Sweden
+"Kansas City",USA
+"Munich",Germany
+"Singapore, Republic of Singapore",Singapore
+"Beijing, China",China
+"Eastern Europe",Eastern Europe
+"Long Beach, CA",USA
+"Charlotte",USA
+"Lisbon, Portugal",Portugal
+"Miami",USA
+"Philadelphia, Pennsylvania",USA
+"Madison, WI",USA
+"United States, Ohio",USA
+"United States, Wisconsin",USA
+"Omaha, NE",USA
+"Salt Lake City, UT",USA
+"Washington, D.C.",USA
+"Kuwait",Kuwait
+"Minneapolis, Minnesota",USA
+"Colorado",USA
+"Ukraine, Kyiv",Ukraine
+"South Africa, Cape Town",South Africa
+"Panama City, Panama",Panama
+"Tbilisi, Georgia",Georgia
+"Greenville, SC",USA
+"Pittsburgh, PA",USA
+"Baltimore, Maryland",USA
+"San Jose, CA, USA",USA
+"Budapest, Hungary",Hungary
+"South Korea, Seoul",South Korea
+"Vietnam, Ho Chi Minh City",Vietnam
+"South Korea, Seoul, South",South Korea
+"Edmonton",Canada
+"Costa Rica, San José",Costa Rica
+"Boulder, CO",USA
+"Central America",Central America
+"Toronto, Canada, Ontario",Canada
+"Detroit, Michigan",USA
+"San Francisco, United States, California",USA
+"South Korea, Seoul, Korea, South",South Korea
+"Germany, Hamburg",Germany
+"Malaysia, Kuala Lumpur",Malaysia
+"Kansas",USA
+"Malaysia, KL",Malaysia
+"San Jose, CA, United States",USA
+"Tirana, Albania",Albania
+"San Juan, Puerto Rico",Puerto Rico
+"United States, St. Louis",USA
+"Houston, TX",USA
+"Seattle, United States, WA",USA
+"United States, Memphis",USA
+"Salt Lake City, United States, Utah",USA
+"Baltimore, United States, MD",USA
+"Washington, United States, D.C.",USA
+"Salt Lake City, United States, UT",USA
+"Kuwait, Kuwait City",Kuwait
+"Vilnius, Lithuania",Lithuania
+"Minneapolis, United States, Minnesota",USA
+"United States, Colorado",USA
+"United States, Eastern Europe",Eastern Europe
+"United States, Omaha",USA
+"United States, Baltimore",USA
+"San Jose, United States, CA",USA
+"South Korea, Vietnam",Vietnam
+"Seattle, WA, United States",USA
+"San Francisco, CA, United States",USA
+"Kuala Lumpur, Malaysia, KL",Malaysia
+"United States, Greenville",USA
+"Washington, D.C., United States",USA
+"Panama, Panama City",Panama
+"Atlanta, United States, GA, USA",USA
+"Budapest, United States, Hungary",Hungary
+"San José, Costa Rica",Costa Rica
+"Tirana, United States, Albania",Albania
+"Seattle, United States, Washington",USA
+"Belgium, Brussels",Belgium
+"Tampa, United States, Florida",USA
+"Tulsa, United States, OK",USA
+"Kansas City, United States, MO",USA
+"Orlando, United States, FL",USA
+"North Carolina, United States, NC",USA
+"San Jose, California, United States, CA",USA
+"Oklahoma, United States, USA",USA
+"Vancouver, United States, BC",Canada
+"Washington, D.C., United States, D.C.",USA
+"Guatemala, Guatemala",Guatemala
+"Vienna, United States, Austria",Austria
+"Phoenix, United States, Arizona",USA
+"Delaware, United States, USA",USA
+"Baltimore, United States, Maryland",USA
+"Madison, United States, WI",USA
+"Pittsburgh, United States, PA",USA
+"Greenville, United States, SC",USA
+"Kuwait, Kuwait City",Kuwait
+"United States, St. Louis, MO",USA
+"United States, Houston",USA
+"Seattle, WA, United States, Washington",USA
+"Greenville, United States, SC, United States",USA
+"Kuwait, Kuwait City",Kuwait
+"United States, St. Louis, MO",USA
+"United States, Houston",USA
+"Seattle, WA, United States, Washington",USA
+"Greenville, SC, United States",USA
+"Vienna, Austria, Vienna",Austria
+"Vienna, Austria, Vienna, Austria",Austria
+"Bali, Indonesia, Denpasar",Indonesia
+"Bali, Indonesia, Denpasar, Indonesia",Indonesia
+"United States, Silicon Valley",USA
+"United States, Bay Area",USA
+"United States, Bay Area, USA",USA
+"United States, Silicon Valley, USA",USA
